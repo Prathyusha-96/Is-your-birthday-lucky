@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=poppins&display=swap');
+:root {
+    --primary-dark: #1F2937;
+    --prmary-pink: #F9A8D4;
+
+}
+body {
+    background-color: var(--primary-dark);
+    color: var(--prmary-pink);
+}
+h1 {
+    text-align: center;
+    font-family: poppins;
+}
+.container {
+    width: 40%;
+    margin: auto;
+    font-size: larger;
+    
+}
+input,label {
+    display: block;
+    padding: 0rem 1rem;
+    height: 5vh;
+    
+
+}
+input  {
+    margin-bottom: 0.5rem;
+    width: 100%;
+}
+#check-number {
+    display: block;
+    margin-top: 2rem;
+    margin: auto;
+    font-size: x-large;
+    border-radius: 0.3rem;
+    padding: 0rem;
+    background-color: var(--primary-dark);
+    color: var(--prmary-pink);
+    
+}
