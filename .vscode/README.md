@@ -1,0 +1,1 @@
+its a fun app. check your birthday is lucky or not
