@@ -40,3 +40,20 @@ input  {
     color: var(--prmary-pink);
     
 }
+.footer{
+    background-color: var(--primary-pink);
+    margin-top: 2rem;
+    padding: 2rem;
+    text-align: center;
+    bottom: 0px;
+    
+   
+}
+.footer .link {
+    color: white;
+    text-decoration: none;
+    padding: 1vh;
+}
+.footer ul {
+    padding-inline-start: 0px;
+}
