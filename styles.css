@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=poppins&display=swap');
 :root {
     --primary-dark: #1F2937;
-    --prmary-pink: #F9A8D4;
+    --primary-pink: #F9A8D4;
 
 }
 body {
     background-color: var(--primary-dark);
-    color: var(--prmary-pink);
+    color: var(--primary-pink);
 }
 h1 {
     text-align: center;
@@ -37,22 +37,22 @@ input  {
     border-radius: 0.3rem;
     padding: 0rem;
     background-color: var(--primary-dark);
-    color: var(--prmary-pink);
+    color: var(--primary-pink);
     
 }
-.footer{
+.footer {
     background-color: var(--primary-pink);
-    margin-top: 2rem;
+    margin-top: 18rem;
     padding: 2rem;
     text-align: center;
     bottom: 0px;
     
-   
 }
 .footer .link {
-    color: white;
+    color: var(--primary-dark);
     text-decoration: none;
     padding: 1vh;
+    font-size: large;
 }
 .footer ul {
     padding-inline-start: 0px;
